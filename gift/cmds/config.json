@@ -2,12 +2,12 @@
   "prefix": ".",
   "greetNewMembers": {
         "enabled": true,
-        "gifUrl": "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGE4enB5eXFsZWZ5cmhucmI4YTZoZnMyYjVnbzd2ZTN6c3czYWJ1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WiIuC6fAOoXD2/giphy.gif"
+        "gifUrl": "https://files.catbox.moe/31l2pf.jpg"
   },
   "port": "8080",
-  "owner": "Gifted Tech",
-  "owner_id": "5153324742",
-  "token": "7020932494:AAFGMs02Y5FDaNxT_CsLYVfrNpvZAzelKpM",
+  "owner": "anjanakbot",
+  "owner_id": "7116293625",
+  "token": "7116293625:AAF2uWz-qRNQTWYY8B04G-1MqUwkurUjmaA",
   "age": "1",
   "gender": "male",
   "country": "Kenya"
